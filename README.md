@@ -14,12 +14,6 @@ A comprehensive mental health journaling application built with Streamlit that h
 ## Deployment Link
 https://mindcare-the-mental-health-journal.streamlit.app/
 This link may or may not work all the time. 
-
-## Installation
-Clone the repository:
-```bash
-git clone https://github.com/Visshu78/MindCare
-cd mindcare_app
 ```
 Install the required dependencies:
 ```
